@@ -9,6 +9,10 @@ Key Highlights:
 
 3. Ardently involved in Creating Data Model, Implemented Data Transformations and Calculations using DAX for accurate analysis and Reporting.
 
+4. Used Mutiple Slicers, Bar Charts, Line Charts, Pie Charts in the Dashboard.
+
+5. Significantly enhanced data visualization and user-friendliness.
+
    
 
 PBIF FILE LINK: https://drive.google.com/file/d/1u7SOLz5hxWu6LEqVVYH4WOc7MN7TWXSB/view?usp=sharing
